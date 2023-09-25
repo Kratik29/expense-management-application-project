@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #d78039bd !important;
+}
+.appname{
+  text-align: center;
+}
+.navbar .navbar-brand {
+  color: #030100 !important;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar h6 {
+  margin-top: 0px;
+  margin-right: 20px;
+}
